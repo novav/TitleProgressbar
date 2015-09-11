@@ -19,6 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         style="?android:attr/progressBarStyleHorizontal"
+        android:progressDrawable="@drawable/rlk_progressbar_style" 
         />
 
     <ProgressBar
